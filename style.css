@@ -1,0 +1,32 @@
+*
+{
+    padding: 0;
+    margin: 0
+}
+#header
+{
+    background-image: url(Pictures/musketastarsak-colorpalette.png);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-color: #191919;
+}
+.navbar-nav li a{
+    float:right;
+    color: #191919!important
+}
+.welcome {
+    padding: 50px 100px;
+    margin-top: -140px;
+    background-color: #191919;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+}
+.welcome h1 {
+    color: #fff;
+    text-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+}
+.twitch {
+    margin: 40%;
+    border-radius: 30px;
+    margin-top: -50px;
+}
